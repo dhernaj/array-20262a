@@ -12,3 +12,4 @@ D:\19533\Csharp\Array\obj\Debug\net10.0\refint\Array.dll
 D:\19533\Csharp\Array\obj\Debug\net10.0\Array.pdb
 D:\19533\Csharp\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
 D:\19533\Csharp\Array\obj\Debug\net10.0\ref\Array.dll
+d:\19533\Csharp\Array\obj\Debug\net10.0\Array.sourcelink.json
